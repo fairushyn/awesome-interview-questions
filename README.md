@@ -11,15 +11,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 <div align="center">
 	<p>
 		<a href="https://triplebyte.com/a/TfjWb6Y/d">
-			<b>Looking for a job?</b>
+			<b>Having Tech Interview?</b>
 			<br>
-			No resume needed. Just prove you can code.
+			Get 3600 Tech and Coding Interview Questions Answered
 			<br>
 			<div>
-				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
+				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="FullStack.Cafe">
 			</div>
 		</a>
-		<sub><i>Clicking this helps fund the Awesome project</i></sub>
+		<sub><i>Sponsored to fund the Awesome project</i></sub>
 	</p>
 </div>
 
