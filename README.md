@@ -7,7 +7,10 @@
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
 ---
-
+<table>
+	<tr>
+		<td>
+			
 <div align="center">
 	<p>
 		<a href="https://triplebyte.com/a/TfjWb6Y/d">
@@ -22,10 +25,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 		<sub><i>Clicking this helps fund the Awesome project</i></sub>
 	</p>
 </div>
-
----
-
-<div align="center">
+		</td>
+		<td>
+	<div align="center">
 	<p>
 		<a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=awint">
 			<b>Having Tech Interview?</b>
@@ -39,6 +41,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 		<sub><i>Proudly supporting the Awesome project</i></sub>
 	</p>
 </div>
+		</td>
+	</tr>
+</table>
 
 ---
 
