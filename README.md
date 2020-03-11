@@ -42,8 +42,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 	</p>
 </div>
 		</td>
-	</tr>
-	<tr>
+	<td>
 		<div align="center">
 	<p>
 		<a href="mailto:">
@@ -58,6 +57,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 		<sub><i>Proudly supporting the Awesome project</i></sub>
 	</p>
 </div>
+	</td>
 	</tr>
 </table>
 
