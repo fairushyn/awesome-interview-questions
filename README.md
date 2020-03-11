@@ -26,9 +26,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 <div align="center">
 	<p>
 		<a href="https://www.fullstack.cafe">
-			<b>Having Full-Stack/Web Interview?</b>
+			<b>Having Tech Interview?</b>
 			<br>
-			Check ~3600 Tech Interview Questions - Answered
+			3600 Tech Interview Questions. <b>Answered</b>.
 			<br>
 			<div>
 				<img src="https://user-images.githubusercontent.com/13550565/76380900-0430c680-638f-11ea-81c9-0f16a3fc8d38.png" width="260"  alt="FullStack.Cafe">
