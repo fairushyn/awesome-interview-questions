@@ -61,6 +61,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 		<sub><i>Clicking this helps fund the Awesome project</i></sub>
 	</p>
 </div>
+
 ---
 	<div align="center">
 	<p>
