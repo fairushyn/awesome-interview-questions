@@ -31,7 +31,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 			Check ~3600 Tech Interview Questions - Answered
 			<br>
 			<div>
-				<img src="https://user-images.githubusercontent.com/13550565/76380748-91bfe680-638e-11ea-9f07-fb3f517507c0.png" width="260"  alt="FullStack.Cafe">
+				<img src="https://user-images.githubusercontent.com/13550565/76380900-0430c680-638f-11ea-81c9-0f16a3fc8d38.png" width="260"  alt="FullStack.Cafe">
 			</div>
 		</a>
 		<sub><i>Sponsored to support the Awesome project</i></sub>
