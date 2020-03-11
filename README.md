@@ -63,7 +63,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 </div>
 
 ---
-	<div align="center">
+
+<div align="center">
 	<p>
 		<a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=awint">
 			<b>Having Tech Interview?</b>
