@@ -51,7 +51,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 			Drive More Traffic To Your Product.
 			<br>
 			<div>
-				<img src="https://user-images.githubusercontent.com/13550565/76382460-cc784d80-6393-11ea-8837-2b89265ac853.png" width="260"  alt="FullStack.Cafe">
+				<img src="https://user-images.githubusercontent.com/13550565/76383789-f3388300-6397-11ea-8a1d-d668c621ae52.png" width="260"  alt="FullStack.Cafe">
 			</div>
 		</a>
 		<sub><i>Proudly supporting the Awesome project</i></sub>
