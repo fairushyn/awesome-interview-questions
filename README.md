@@ -36,7 +36,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 				<img src="https://user-images.githubusercontent.com/13550565/76381961-05afbe00-6392-11ea-9062-f769e0c68812.png" width="260"  alt="FullStack.Cafe">
 			</div>
 		</a>
-		<sub><i>Sponsored to support the Awesome project</i></sub>
+		<sub><i>Proudly supporting the Awesome project</i></sub>
 	</p>
 </div>
 
