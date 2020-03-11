@@ -7,7 +7,7 @@
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
 ---
-<table border='0' width='100%'>
+<table border="0px" width="100%">
 	<tr>
 		<td>
 			
