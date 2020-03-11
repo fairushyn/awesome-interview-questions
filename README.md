@@ -88,7 +88,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 			3600 Tech Interview Questions. <b>Answered</b>.
 			<br>
 			<div>
-				<img src="https://user-images.githubusercontent.com/13550565/76382460-cc784d80-6393-11ea-8837-2b89265ac853.png" width="260"  alt="FullStack.Cafe">
+				<img src="https://user-images.githubusercontent.com/13550565/76383756-d2702d80-6397-11ea-9efb-a4af8619350e.png" width="260"  alt="FullStack.Cafe">
 			</div>
 		</a>
 		<sub><i>Proudly supporting the Awesome project</i></sub>
